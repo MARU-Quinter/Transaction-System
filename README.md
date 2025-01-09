@@ -71,15 +71,8 @@ Balance after reversal: 700.0
 2. Useful as a template for understanding OOP concepts like inheritance, polymorphism, and exception handling.
 3. Can be extended into a full-fledged banking application.
 
-## Future Improvements
-- Implement persistent storage for bank account details.
-- Add a user interface for easier interaction.
-- Include more transaction types like fund transfers or recurring payments.
-
-## License
-This project is licensed under the MIT License. You are free to use, modify, and distribute the code.
 
 ---
-
+By: MARU-Quinter
 Feel free to reach out if you have questions or suggestions for improvement!
 
